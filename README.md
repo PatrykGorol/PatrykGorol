@@ -33,9 +33,7 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
-<br/>
-<br/>
-<br/>
+---
 
 <p>
 <!-- :zap: Top Languages -->
