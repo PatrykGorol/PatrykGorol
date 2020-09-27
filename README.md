@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Sudoku Solver - optymising to solve hardest sudoku ever (in reasonable time)!
 - 🌱 I’m currently learning Pandas 
-- 👯 I’m looking to collaborate in interesting Python projects
+- 👯 I’m looking to collaborate on interesting Python projects
 - 🥅 2020 Goal: Repeat math from K.A. Stroud's *Engineering Mathematics*: Part I: Foundation Topics
 - ⚡ Fun facts: I speak Japanese and dance Hustle
 
@@ -23,21 +23,22 @@
 
 ---
 
-:zap: Top Languages
-<img align="left" alt="Most used languages" src="https://github-readme-stats.patrykgorol.vercel.app/api/top-langs?username=patrykgorol&layout=compact" />
-
-<br />
-<br />
-
-
-:zap: Github Stats
-<img align="left" alt="Github Stat" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
-
----
-
 ### Recent Activity
 <!--START_SECTION:activity-->
 
+---
+
+<details>
+<summary>:zap: Top Languages</summary>
+<img align="left" alt="Most used languages" src="https://github-readme-stats.patrykgorol.vercel.app/api/top-langs?username=patrykgorol&layout=compact" />
+</details>
+
+<br />
+
+<details>
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="Github Stat" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
+</details>
 
 
 [linkedin]: https://www.linkedin.com/in/patrykgorol/
