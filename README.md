@@ -29,16 +29,17 @@
 ---
 
 <details>
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="Github Stat" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
+</details>
+
+<br/>
+
+<details>
 <summary>:zap: Top Languages</summary>
 <img align="left" alt="Most used languages" src="https://github-readme-stats.patrykgorol.vercel.app/api/top-langs?username=patrykgorol&layout=compact" />
 </details>
 
-<br />
-
-<details>
-<summary>:zap: Github Stats</summary>
-<img align="left" alt="Github Stat" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
-</details>
 
 
 [linkedin]: https://www.linkedin.com/in/patrykgorol/
