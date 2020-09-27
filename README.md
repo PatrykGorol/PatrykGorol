@@ -23,19 +23,16 @@
 
 ---
 
-<details>
 :zap: Top Languages
-
-  <img align="left" alt="Most used languages" src="https://github-readme-stats.patrykgorol.vercel.app/api/top-langs?username=patrykgorol&layout=compact" />
-</details>
+<img align="left" alt="Most used languages" src="https://github-readme-stats.patrykgorol.vercel.app/api/top-langs?username=patrykgorol&layout=compact" />
 
 <br />
+<br />
 
-<details>
+
 :zap: Github Stats
+<img align="left" alt="Github Stat" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
 
-  <img align="left" alt="Github Stat" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
-</details>
 ---
 
 ### Recent Activity
