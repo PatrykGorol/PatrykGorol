@@ -23,12 +23,7 @@
 
 ---
 
-### Recent Activity
-<!--START_SECTION:activity-->
-
----
-
-<div>
+<p>
 <!-- :zap: Github Stats -->
 <img align="left" alt="Github Stats" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
 </p>
