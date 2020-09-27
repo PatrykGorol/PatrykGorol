@@ -1,6 +1,7 @@
 ### Hi there, I'm Patryk 👋
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PatrykGorol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PatrykGorol | CodeWars" width="22px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" />][codewars]
 
 <br />
 
@@ -22,16 +23,19 @@
 
 ---
 
+<details>
 :zap: Top Languages
 
   <img align="left" alt="Most used languages" src="https://github-readme-stats.patrykgorol.vercel.app/api/top-langs?username=patrykgorol&layout=compact" />
+</details>
 
----
+<br />
 
+<details>
 :zap: Github Stats
 
   <img align="left" alt="Github Stat" src="https://github-readme-stats.patrykgorol.vercel.app//api?username=patrykgorol&show_icons=true&hide_border=true&count_private=true" />
-
+</details>
 ---
 
 ### Recent Activity
@@ -40,3 +44,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/patrykgorol/
+[codewars]: https://www.codewars.com/users/PatrykGorol
