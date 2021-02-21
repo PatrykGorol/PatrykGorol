@@ -8,7 +8,7 @@
 ## I'm a Data Analyst and Python Developer!
 
 - 🔭 I’m currently working on challenges of [Advent of Code](https://adventofcode.com/)!
-- 🌱 I’m currently learning Algoritms
+- 🌱 I’m currently learning Algorithms
 - 👯 I’m looking to collaborate on interesting Python projects
 - 🥅 2021 Goal: Repeat math from K.A. Stroud's *Engineering Mathematics*: Part I: Foundation Topics
 - ⚡ Fun facts: I speak Japanese and dance Hustle
